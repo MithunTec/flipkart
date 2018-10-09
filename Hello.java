@@ -1,4 +1,5 @@
 Class Hello
 {
-	Hello h;
+	System.out.println("hello world");
+
 }
