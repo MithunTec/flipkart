@@ -1,2 +1,0 @@
-stash is cool
-
